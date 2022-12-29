@@ -13,5 +13,5 @@ Guilherme Gonçalves Pataro.
 
 ☑️ Script Projects List:
 
-1) Teams_GpuDisable.ps1 > Represents the Disabling Hardware aceleration on MS Teams, once this app cash the video in old notebooks machine. This script can be applied 
+1) Teams_GpuDisable.ps1 > Represents the Disabling Hardware aceleration on MS Teams, once this app crash the video in old notebooks machine. This script can be applied 
 trough SCCM, GPO or Intune.
