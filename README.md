@@ -1,6 +1,6 @@
 Hello, dear all. 👋
 
-☑️ This repository represents a public book of PowerShell scritps created by Guilherme Pataro during personal studies to create some projects, professional or not, 
+☑️ This repository represents a public book of PowerShell scripts created by Guilherme Pataro during personal studies to create some projects, professional or not, 
 to do Infrastructure a better IT area.
 
 ☑️ Focus on Windows System and Microsoft Azure automation.
