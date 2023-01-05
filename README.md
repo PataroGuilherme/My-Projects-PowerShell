@@ -15,3 +15,7 @@ Guilherme Gonçalves Pataro.
 
 1) Teams_Cache.ps1 > Represents the Disabling Hardware aceleration on MS Teams, once this app crash the video in old notebooks machine. This script can be applied 
 trough SCCM, GPO or Intune.
+
+2) Reset_Wifi.ps1 > Used to reset DHCP applied on users that other application force some static DHCP address. This script need to be runned as administrator.
+
+
